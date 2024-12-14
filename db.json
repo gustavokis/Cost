@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "id": "89bb",
+      "name": "Carlos",
+      "budget": "13000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "0398",
+      "name": "Kis",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 0,
+      "services": [
+        {
+          "name": "Kis",
+          "cost": "12",
+          "description": "contratar",
+          "id": "ac1ce636-3dce-4a47-96a4-d4fa1cc421cd"
+        }
+      ],
+      "cost": 12
+    },
+    {
+      "id": "c24d",
+      "name": "Cabra",
+      "budget": "300",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [
+        {
+          "name": "Kis",
+          "cost": "100",
+          "description": "aaaaaa",
+          "id": "df234e9d-44a7-4261-ab23-0a31b32d4a84"
+        },
+        {
+          "name": "Carlos",
+          "cost": "1",
+          "description": "aaaaa",
+          "id": "48f640f6-5c97-4c7b-bfb7-d63dc8e82491"
+        }
+      ],
+      "cost": 101
+    },
+    {
+      "id": "f65d",
+      "name": "Lagarta",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [],
+      "cost": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
